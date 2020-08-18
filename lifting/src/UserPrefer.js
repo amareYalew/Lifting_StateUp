@@ -2,7 +2,9 @@ import React, { Component } from 'react'
 
 export default class UserPrefer extends Component {
     render(){
-g        return (
+
+      // throw new Error("Not able to Fetch the Addresses at this moment");
+      return (
   
         <div>
   

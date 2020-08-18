@@ -3,7 +3,9 @@ import logo from './logo.svg';
 import './App.css';
 import Order from './Order';
 import ProductInfo from './ProductInfo';
-import Summery from './Summery'
+import Address from './Address'
+import Summery from './Summery';
+import Customer from './Customer'
 
 
 
@@ -12,6 +14,7 @@ function App() {
     <div className="App">
       <Order />
       <ProductInfo />
+     <Address/>
       <Summery />
     </div>
   );
